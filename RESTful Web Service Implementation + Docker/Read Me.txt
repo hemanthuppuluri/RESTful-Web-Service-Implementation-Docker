@@ -1,0 +1,5 @@
+1) Run the Docker Container by "docker run -it -p 9001:3000 node-docker-assignment"
+
+2) Runt he angular server by "ng s"
+
+Angular runs on Port loacalhost:4200
